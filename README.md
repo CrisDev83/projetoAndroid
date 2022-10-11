@@ -45,6 +45,8 @@ Site construido como projeto do Módulo 2 do curso de HTML e CSS altualizado (20
 # Tecnologias utilizadas
 ## Ferramentas 
 - VSCODE - Visual Studio Code
+- Git
+- GitHub
 
 ## Front end
 - HTML5

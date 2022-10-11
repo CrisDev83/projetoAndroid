@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://effulgent-melba-4ef457.netlify.app
+https://crisdev83.github.io/projetoAndroid/
 
 Info Filmes é uma aplicação, construida em ReactJS totalmenmete RESPONSIVA, faz parte dos meus estudos autodidatas de React. O Projeto foi implementado utilizando as orienteações do Professor Mateus Batitsti seguindo sua aula online: [PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)](https://www.youtube.com/watch?v=XqxUHVVO7-U&t=141s).
 

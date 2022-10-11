@@ -15,12 +15,20 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 
 ## O Que aprendi
 
-- O que é Git e GitHub
-- Consumir uma API externa
-- Requisição com fetch
-- useState
-- useEffect
-- useParams
+- Psicologia das cores
+- Harmonia das cores
+- Paleta de cores
+- Representando cores em CSS
+- Degradê 
+- Tipografia
+- Anatomia de Tipos
+- Font-family, font-size, font-weight
+- Google fonts
+- Fontes externas
+- Text-align
+- Class vs Id
+- Pseudo-classes
+- Box model
 
 
 ## Layout Desktop

@@ -58,14 +58,11 @@ Site construido como projeto do Módulo 2 do curso de HTML e CSS altualizado (20
 # clonar repositório
 git clone https://github.com/CrisDev83/projetoAndroid.git
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto
+projetoAndroid
 
-# instalar dependências
-npm install
-
-# executar o projeto
-npm run dev 
+# encontrar o arquivo index.html
+clicar com o botão direito > abrir com google chrome ou outro navegador
 ```
 
 # Autor

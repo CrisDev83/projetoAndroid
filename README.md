@@ -1,6 +1,6 @@
 # projetoAndroid
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CrisDev83/projetoInfofilmes/blob/master/LICENCE) 
+[![NPM](https://github.com/CrisDev83/projetoAndroid/blob/main/LICENSE) 
 
 # Sobre o projeto
 

@@ -38,6 +38,9 @@ Site construido como projeto do Módulo 2 do curso de HTML e CSS altualizado (20
 ## Layout Desktop
 ![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/android.png)
 
+## Layout Mobile
+![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/android.png)
+
 
 # Tecnologias utilizadas
 ## Ferramentas 

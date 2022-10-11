@@ -6,11 +6,10 @@
 
 https://crisdev83.github.io/projetoAndroid/
 
-Info Filmes é uma aplicação, construida em ReactJS totalmenmete RESPONSIVA, faz parte dos meus estudos autodidatas de React. O Projeto foi implementado utilizando as orienteações do Professor Mateus Batitsti seguindo sua aula online: [PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)](https://www.youtube.com/watch?v=XqxUHVVO7-U&t=141s).
+Site construido como projeto do Módulo 2 do curso de HTML e CSS altualizado (2021) do canal [CURSO EM VIDEO](https://youtu.be/YB9c1Zg_Ln4), com o Professor Guanabara, 1º no ranking mundial do GitHub. O site é totalmente responsivo e usa todos os tópicos aprendidos até o Módulo 2. 
 
-Esse sistema consome uma API externa do site [The Movie Database](https://www.themoviedb.org/?language=pt-BR). Buscando informações através do (fetch) dos filmes mais bem classificados no site. Ao encontrar o filme que nos interessa, podemos clicar em detalhes e saber mais informações sobre o filme, como: descrição, orçamento e receita. Também é possível pesquisar por filmes ou gêneros e receber listas com esses filtros.
+É um site informativo. Menu com animação de fade, fonts do google fonts, links para páginas externas, imagens e vídeos responsivos, listas, abreviações. Responsivo para telas grandes e pequenas.
 
-Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
 
 
 ## O Que aprendi
@@ -29,6 +28,11 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 - Class vs Id
 - Pseudo-classes
 - Box model
+- Variáveis em Css
+- Responsividade
+- Media Queries
+- Usando imagem com picture
+- Header e Footer
 
 
 ## Layout Desktop
@@ -40,32 +44,19 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 - VSCODE - Visual Studio Code
 
 ## Front end
-- HTML \ CSS \ JS
-- JSX
-- ReactJS
-- Vite
-
-## Dependencies
-- react
-- react-icons
-- react-dom
-- react-router-dom
-- fetch
-
-## Back end
-- API TMDB (The Movie Database.Org)
+- HTML5
+- CSS3
 
 ## Implantação em produção
-- Netlify
+- GitHub pages
 
 # Como executar o projeto
 
 ## Front end web
-Pré-requisitos mínimos: node v12.13.0 / npm v6.12.0
 
 ```zsh
 # clonar repositório
-git clone https://github.com/CrisDev83/projetoInfofilmes.git
+git clone https://github.com/CrisDev83/projetoAndroid.git
 
 # entrar na pasta do projeto front end web
 cd front-web

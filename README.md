@@ -12,7 +12,7 @@ Site construido como projeto do Módulo 2 do curso de HTML e CSS altualizado (20
 
 
 
-## O Que aprendi
+## O Que aprendi?
 
 Psicologia das cores; Harmonia das cores; Paleta de cores; Representando cores em CSS; Degradê; Tipografia; Anatomia de Tipos; Font-family, font-size, font-weight; Google fonts; Fontes externas; Text-align; Class vs Id; Pseudo-classes; Box model; Variáveis em Css; Responsividade; Media Queries; Usando imagem com picture; Header e Footer.
 
